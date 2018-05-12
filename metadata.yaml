@@ -1,5 +1,5 @@
 _repo: Sailing-Alone-Around-the-World_6317
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Fogarty, Thomas
@@ -16,9 +16,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/31657
 covers:
 - cover_type: archival
-  image_path: 6317/6317-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 6317-h/images/cover.jpg
 creator:
   author:
     agent_name: Slocum, Joshua
@@ -32,6 +30,8 @@ description: "Sailing Alone Around the World (1900) is a sailing memoir by Joshu
   \ Slocum was the first person to sail around the world alone. The book was an immediate\
   \ success and highly influential in inspiring later travelers.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6317#Sailing-Alone-Around-the-World
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
